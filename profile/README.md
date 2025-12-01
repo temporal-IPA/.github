@@ -10,4 +10,5 @@
 
 
 ## Specifications:
-- [TIPA v1.0 specs](https://github.com/temporal-IPA/tipa/blob/main/specifications/TIPAv1.0.md)
+- [TIPA v1.0 specs:](https://github.com/temporal-IPA/tipa/blob/main/specifications/TIPAv1.0.md) TIPA carries **how it sounds** in IPA/extIPA.
+- [PTIPA v1.0 specs:](https://github.com/temporal-IPA/tipa/blob/main/specifications/PTIPAv1.0.md) PTIPA carries **what is said** in ordinary text.

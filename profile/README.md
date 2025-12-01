@@ -8,7 +8,6 @@
 + Inline annotations (e.g. stage directions or prosodic notes)
 + Inline comments
 
-
 ## Specifications:
-- [TIPA (Temporal IPA) v1.0 specs:](https://github.com/temporal-IPA/tipa/blob/main/specifications/TIPAv1.0.md) TIPA carries **how it sounds** in IPA/extIPA.
-- [PTIPA (Pré‑Temporal IPA) v1.0 specs:](https://github.com/temporal-IPA/tipa/blob/main/specifications/PTIPAv1.0.md) PTIPA carries **what is said** in ordinary text.
+- [TIPA (Temporal IPA) v1.0:](https://github.com/temporal-IPA/tipa/blob/main/specifications/TIPAv1.0.md) carries **how it sounds** in IPA/extIPA.
+- [PTIPA (Pré‑Temporal IPA) v1.0:](https://github.com/temporal-IPA/tipa/blob/main/specifications/PTIPAv1.0.md) carries **what is said** in ordinary text, intended as a **pre‑phonetic companion** to TIPA

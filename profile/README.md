@@ -1,6 +1,6 @@
 # TIPA 
 
-TIPA (Temporal IPA) is a plain‑text format that combines:
+**Temporal IPA** is a plain‑text format that combines:
 
 + International Phonetic Alphabet (IPA) transcriptions
 + Temporal anchors (timestamps in seconds)
